@@ -1,0 +1,5 @@
+classes = 4
+train = data/multi_train_frames.txt
+valid = data/multi_test_frames.txt
+names = data/multi.names
+backup = backup

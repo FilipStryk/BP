@@ -1,0 +1,8 @@
+classes = 4
+# classes = 3
+train = data/train_frames.txt
+valid = data/test_frames.txt
+# valid = data/highway.txt
+names = obj.names
+# names = data/highway.names
+backup = backup

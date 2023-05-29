@@ -1,0 +1,6 @@
+opencv-python
+numpy
+paho-mqtt
+filterpy
+scikit-image
+lap
